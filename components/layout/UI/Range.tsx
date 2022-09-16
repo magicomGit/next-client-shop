@@ -50,4 +50,4 @@ const Range: FC<IProps> = ({ values, setValues }) => {
     )
 }
 
-export default Range
+export default Range  
